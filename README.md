@@ -1,6 +1,6 @@
 # 2023-ISP-Eagle Card
 <br>
-
+The Eagle Card uses NFC(near feild communication) technology to effectibly display all needed information on your private devices. For example, all you have to do is hold the card next to your personal device and your website or whaterver you want to display will pop up. These are very efficent and bennefical to anyone in the business industry or anyone in general who would like to promote one of their products. 
 
 
 # Members
