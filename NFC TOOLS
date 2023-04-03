@@ -1,0 +1,4 @@
+NFC TOOLs is a app that we will use to import the code from the NFC WRITER app to the actual NFC CHIPS
+NFC Tools is a powerful app that allows users to manage and program NFC tags. The app provides a range of features, including the ability to read and write NFC tags, clone and back up tags, and automate tasks with NFC triggers. NFC Tools can also read and write custom data onto NFC tags, including web links, phone numbers, and text messages. When used in conjunction with NFC Writer, users can create and program custom NFC tags to perform specific actions when triggered. For example, a user could program an NFC tag to automatically launch a specific app on their smartphone or connect to a Wi-Fi network. The NFC Writer app and NFC Tools work seamlessly together, allowing users to create and program custom NFC tags quickly and easily.
+
+Thus this is what will help us complete the ISP.
