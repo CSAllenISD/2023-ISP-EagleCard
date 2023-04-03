@@ -1,0 +1,5 @@
+In addtion to NFC writer to make the code
+The NFC Writer app is a tool for coding NFC (Near Field Communication) chips, as it offers a simple and intuitive interface that allows users to read, write, and format NFC tags. This app works by utilizing the NFC technology in the user's smartphone to read and write data onto an NFC tag. Users will be able encode various types of data onto an NFC tag, including web links, contact information, and text messages. Once we encode the data , the NFC tag can be placed on a compatible device or surface to transfer the information to other devices or users. The NFC Writer app is a valuable tool for anyone looking to utilize NFC technology for personal or professional purposes.
+
+We will import the code from NFC writer to NFC TOOLS, which actially programs the chips.
+ next commit will be about NFC TOOLS
