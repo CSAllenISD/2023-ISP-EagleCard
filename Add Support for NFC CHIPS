@@ -1,0 +1,3 @@
+This commit adds support for NFC (Near Field Communication) chips to our application. NFC chips enable two devices to communicate with each other when they are brought close together, typically within a few centimeters. With this new feature, our application can now read and write data to NFC tags, allowing for a variety of new use cases such as contactless payments, access control, and information sharing.
+
+To implement this feature, we added the necessary APIs and libraries for interacting with NFC chips, and created a new user interface for scanning and writing NFC tags. We also added support for common NFC tag types such as MIFARE Classic and NDEF (NFC Data Exchange Format) tags.
